@@ -1,6 +1,4 @@
 ## JKUAT Developer Student Club, Internet Of Things Track
-
-### Jomo Kenyatta University of Agriculture and Technology Association of Geomatic and Geospatial Eng. Students (AGGES) 
 <hr>
 
 [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -18,4 +16,4 @@ JKUAT DSC, Internet Of Things Track.Contains codes of Weekly DSC IOT Track meet-
 1.[Arduino Boards](https://www.arduino.cc/en/main/boards)<br>
 2.[C++ Programming Language](https://www.programiz.com/cpp-programming)<br>
 3.[Raspberry PI](https://www.raspberrypi.org/)<br>
-4.[Python Programming Language]()<br>
+4.[Python Programming Language](https://www.python.org/doc/)<br>
