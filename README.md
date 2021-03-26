@@ -2,7 +2,9 @@
 <hr>
 
 [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub repo size](https://img.shields.io/github/repo-size/jkuatdsc/IoT?color=green-yellow&logo=github&logoColor=blue) ![GitHub language count](https://img.shields.io/github/languages/count/jkuatdsc/IoT?logo=visual-studio-code) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuatdsc/IoT?style=plastic&color=brightgreen) 
+![GitHub repo size](https://img.shields.io/github/repo-size/jkuatdsc/IoT?color=green-yellow&logo=github&logoColor=blue) 
+![GitHub language count](https://img.shields.io/github/languages/count/jkuatdsc/IoT?logo=visual-studio-code) 
+![GitHub last commit](https://img.shields.io/github/last-commit/jkuatdsc/IoT?style=plastic&color=brightgreen) 
 ![Forks](https://img.shields.io/github/forks/jkuatdsc/IoT?style=social)
 ![GitHub top language](https://img.shields.io/github/languages/top/jkuatdsc/IoT)
 
