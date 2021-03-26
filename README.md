@@ -9,7 +9,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/jkuatdsc/IoT)
 
 #### Find Your Developers
-<!-- [![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob) -->
+[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/emueni19)
+[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob)
 
 JKUAT DSC, Internet Of Things Track.Contains codes of Weekly DSC IOT Track meet-ups
 
