@@ -1,0 +1,5 @@
+A booting raspberry pi(Zero, 2, 3, or 4 or anything higher)
+2 LEDs
+2 resistors (Anyoneranging from 100Ohms to 1,000Ohms)
+Jumper wires
+
