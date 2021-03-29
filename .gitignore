@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+*.tmp
 
 # vs code
 *.vscode
