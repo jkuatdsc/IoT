@@ -1,5 +1,4 @@
-
-
+// Code to communicated to the clients
 #include <WiFi.h>
 WiFiClient WIFI_CLIENT;
 #include <PubSubClient.h>
