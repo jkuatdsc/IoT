@@ -1,0 +1,38 @@
+#include <TimerOne.h>
+
+int yellowLED = 10;
+int redLED = 9;
+
+String LEDStatus = "OFF"; //keep track of whether the yellow led is on or off
+
+void setup() {
+  // put your setup code here, to run once:
+pinMode(yellowLED, OUTPUT);
+pinMode(redLED, OUTPUT);
+
+//start the interrupt
+///how long you want to run before the interrupt is set off
+Timer1.initialize(1000000); //in microseconds, 1 seconds
+
+ //what to do when the alarm goes off
+ Timer1.attachInterrupt(blinkYellow);
+}
+
+void loop() {
+  digitalWrite(redLED, HIGH);
+  delay(250);
+  digitalWrite(redLED, LOW);
+  delay(250);
+}
+
+void blinkYellow(){
+  if(LEDStatus == "ON"){
+    digitalWrite(yellowLED, LOW);
+    LEDStatus = "OFF";
+    return; //leave the function
+  }
+  if(LEDStatus == "OFF"){
+    digitalWrite(yellowLED, HIGH);
+    LEDStatus = "ON";
+  }
+}
