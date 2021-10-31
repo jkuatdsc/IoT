@@ -1,5 +1,10 @@
 # Home Automation with Google Home
 
+## Hardware requirements
+- [Nodemcu](https://store.nerokas.co.ke/index.php?route=product/product&product_id=1764)
+- [Relay](https://store.nerokas.co.ke/index.php?route=product/product&product_id=1679&search=relay&description=true)
+- Jumper wires
+- AC bulb / use an led
 ## Add esp8266 to Arduino IDE
 use this link to set up arduino IDE and test the esp8266 [link](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/)
 
